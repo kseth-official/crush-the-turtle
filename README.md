@@ -1,4 +1,4 @@
-# Crush the Turtle (September 2023)
+# Crush the Turtle
 
 I created this animation of a turtle using WebGL, Javascript, and GLSL. The reference frame sketch can be viewed in Reference-Frame-Sketch.jpg.
 
