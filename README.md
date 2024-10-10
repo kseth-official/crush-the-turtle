@@ -22,11 +22,17 @@ This is an animation of a turtle that I put together using WebGL, Javascript, an
 - Idle Animation (Default) Key: "I"
 The default looping idle animation of the sea turtle.
 
+![](Idle-Animation.gif)
+
 - Growing and Barrel Roll Key: "G"
 The turtle grows and starts doing a barrel roll, leaving the reef.
 
+![](Grow-and-Barrel-Roll.gif)
+
 - Backflips and Tricks (Creative): "M"
 The turtle rises, does a backflip, and returns to its original position.
+
+![](Ascent-and-Backflip.gif)
 
 - Make Tail Bigger Key: Hold "B"
 Makes the tail bigger.
