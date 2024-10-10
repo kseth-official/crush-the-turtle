@@ -1,6 +1,6 @@
-CPSC 314 -- Graphics Programming -- September 2023
+# CPSC 314 -- Graphics Programming -- September 2023
 
-This is an animation of a turtle that I put together using WebGL, Javascript, and GLSL 
+This is an animation of a turtle that I put together using WebGL, Javascript, and GLSL. 
 
 # External Resources Used
 ## Textures
