@@ -1,6 +1,6 @@
 # Crush the Turtle
 
-I created this animation of a turtle using WebGL, Javascript, and GLSL. The reference frame sketch can be viewed in Reference-Frame-Sketch.jpg.
+I created this animation of a turtle as part of an assignment for CPSC 314 - Graphics Programming at UBC using WebGL, HTML, Javascript, and GLSL. The reference frame sketch can be viewed in Reference-Frame-Sketch.jpg.
 
 - underwater.js contains WebGL code.
 - underwater.html contains the shaders used.
